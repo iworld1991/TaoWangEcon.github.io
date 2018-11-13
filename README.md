@@ -1,4 +1,4 @@
-## Welcome to Tao Wang's Page.
+#### Welcome to Tao Wang's Page.
 
 ### About Me
 
