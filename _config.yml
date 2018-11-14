@@ -1,3 +1,4 @@
 name: Tao Wang, An Econ PhD
 theme: jekyll-theme-minimal
+markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
